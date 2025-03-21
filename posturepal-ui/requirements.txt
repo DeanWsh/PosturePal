@@ -1,0 +1,11 @@
+torch
+opencv-python
+pygame
+requests
+numpy
+matplotlib
+posenet
+flask
+flask-cors
+tkinter
+Pillow
